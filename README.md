@@ -9,7 +9,7 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="styles.css" />
-    <title>Web Design Mastery | Lebaba</title>
+    <title>Web Design Mastery | Velvet Vogue</title>
   </head>
   <body>
     <nav>
@@ -20,7 +20,7 @@
         <li class="link"><a href="#">Contact</a></li>
       </ul>
       <div class="nav__logo">
-        <a href="#">Lebaba<span>.</span></a>
+        <a href="#">Velvet Vogue<span>.</span></a>
       </div>
       <div class="nav__icons">
         <span>
@@ -47,7 +47,7 @@
         <button class="btn">EXPLORE NOW</button>
       </div>
       <div class="header__image">
-        <img src="assets/header.png" alt="header" />
+        <img src="https://www.shutterstock.com/image-photo/teenage-girl-blond-wavy-hair-260nw-2176500509.jpg" />
       </div>
     </header>
 
@@ -59,19 +59,19 @@
       </p>
       <div class="categories__grid">
         <div class="categories__card">
-          <img src= />
+          <img src= "https://www.have-clothes-will-travel.com/wp-content/uploads/2023/09/Copy-of-Pinterest-Pins-8.png" />
           <h4>Accessories</h4>
         </div>
         <div class="categories__card">
-          <img src= />
+          <img src= "https://i.pinimg.com/474x/21/e5/84/21e5841022c5abae8c9061c51b944f7e.jpg"/>
           <h4>Dress Collection</h4>
         </div>
         <div class="categories__card">
-          <img src= />
+          <img src= "https://i.pinimg.com/736x/9f/36/c3/9f36c384fca15dbf21989709714d5123.jpg"/>
           <h4>Jewellery</h4>
         </div>
         <div class="categories__card">
-          <img src= />
+          <img src= "https://i.pinimg.com/736x/83/6b/d7/836bd7f9dd3a8eb267514a5fe441ad53.jpg"/>
           <h4>Cosmetics</h4>
         </div>
       </div>
@@ -79,23 +79,32 @@
 
     <section class="section_container hero_container">
       <div class="hero__card">
-        <img src=/>
+        <img src="https://i.pinimg.com/736x/8f/8a/bc/8f8abc5fe8d18991a8e6a5a9cd4a6030.jpg"/>
+        <br>
+        <br>
         <div class="hero__content">
           <p>2023 Trend</p>
           <h4>Womens Shirt</h4>
           <a href="#">Discover More +</a>
         </div>
+        
       </div>
       <div class="hero__card">
-        <img src="assets/card-2.png" alt="hero" />
+        <img src="https://i.pinimg.com/originals/7f/0e/56/7f0e5645096cc14094478f87cf4a2444.jpg"/>
+        <br>
+        <br>
         <div class="hero__content">
           <p>2023 Trend</p>
           <h4>Womens Dresses</h4>
           <a href="#">Discover More +</a>
         </div>
       </div>
+    
+      
       <div class="hero__card">
-        <img src="assets/card-3.png" alt="hero" />
+        <img src="https://i.pinimg.com/736x/2a/1d/70/2a1d701ffca1402dea2198eefeb75694.jpg" />
+        <br>
+        <br>
         <div class="hero__content">
           <p>2023 Trend</p>
           <h4>Womens Casuals</h4>
@@ -112,7 +121,7 @@
       </p>
       <div class="product__grid">
         <div class="product__card">
-          <img src="assets/product-1.jpg" alt="product" />
+          <img src="https://rukminim2.flixcart.com/image/850/1000/xif0q/dress/p/x/r/xxl-an-25-whaite-ultrazon-original-imagmmj2qrrg7zgy.jpeg?q=90&crop=false" />
           <div class="product_card_content">
             <div class="product__rating">
              
@@ -122,47 +131,29 @@
           </div>
         </div>
         <div class="product__card">
-          <img src= />
+          <img src= "https://www.jiomart.com/images/product/original/rvmhd8olty/stojira-new-best-collection-stylish-beautiful-design-fashion-wrist-watch-for-women-analog-watch-for-women-latest-new-blue-dial-luxury-mesh-magnet-buckle-analogue-watches-for-girls-product-images-rvmhd8olty-0-202305171327.jpg?im=Resize=(500,630)"/>
           <div class="product_card_content">
             <div class="product__rating">
               
             </div>
             <h4>Guess Watch</h4>
-            <p>$200 <s>$350</s></p>
+            <p>$90 <s>$120</s></p>
           </div>
         </div>
+        
+        
         <div class="product__card">
-          <img src="assets/product-3.jpg" alt="product" />
-          <div class="product_card_content">
-            <div class="product__rating">
-              
-            </div>
-            <h4>Black Purse</h4>
-            <p>$350 <s>$450</s></p>
-          </div>
-        </div>
-        <div class="product__card">
-          <img src="assets/product-4.jpg" alt="product" />
-          <div class="product_card_content">
-            <div class="product__rating">
-              
-            </div>
-            <h4>Gucci Bag</h4>
-            <p>$900 <s>$1200</s></p>
-          </div>
-        </div>
-        <div class="product__card">
-          <img src="assets/product-5.jpg" alt="product" />
+          <img src="https://levi.in/cdn/shop/files/A39510014_10_Model_Front_f526638c-318a-4d00-90db-0cdff38c8bc5.jpg?v=1699256872&width=1445" />
           <div class="product_card_content">
             <div class="product__rating">
               
             </div>
             <h4>Tapered Jeans</h4>
-            <p>$250 <s>$300</s></p>
+            <p>$149 <s>$300</s></p>
           </div>
         </div>
         <div class="product__card">
-          <img src="assets/product-6.jpg" alt="product" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgtOjbbrbmXrIGQUodtZhIpSxQBVZ3E8V6Q&usqp=CAU" />
           <div class="product_card_content">
             <div class="product__rating">
               
@@ -172,17 +163,17 @@
           </div>
         </div>
         <div class="product__card">
-          <img src="assets/product-7.jpg" alt="product" />
+          <img src="https://images.meesho.com/images/products/101351040/ansqq_512.webp" />
           <div class="product_card_content">
             <div class="product__rating">
              
             </div>
-            <h4>Brown T-Shirt</h4>
+            <h4>Black T-Shirt</h4>
             <p>$99 <s>$149</s></p>
           </div>
         </div>
         <div class="product__card">
-          <img src="assets/product-8.jpg" alt="product" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhSMrjcxvZoKcHVgxqQIuObQ5sJSGmfT99w&usqp=CAU"/>
           <div class="product_card_content">
             <div class="product__rating">
             
@@ -263,3 +254,9 @@
         inspiration on our blog.
       </p>
     </section>
+       
+    
+         
+           
+          
+          
